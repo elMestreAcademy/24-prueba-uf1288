@@ -1,0 +1,19 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<alumnos>
+ <alumno id="1">
+ <nombre>juan perez</nombre>
+ <edad>18</edad>
+ <curso>12</curso>
+ </alumno>
+ <alumno id="2">
+ <nombre>maria lopez</nombre>
+ <edad>17</edad>
+ <curso>11</curso>
+ </alumno>
+ <alumno id="3">
+ <nombre>pedro gomez</nombre>
+ <edad>19</edad>
+ <curso>12</curso>
+ </alumno>
+</alumnos>
+ 
